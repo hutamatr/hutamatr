@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hutama Trirahmanto</h1>
 <h3 align="center">I'm interested in Web development especially Frontend Web development</h3>
 
-<p align="left"> <a href="https://twitter.com/huutamatr" target="blank"><img src="https://img.shields.io/twitter/follow/huutamatr?logo=twitter&style=for-the-badge" alt="huutamatr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/huutamatr" target="blank"><img src="https://img.shields.io/twitter/follow/huutamatr?logo=twitter&style=for-    the-badge" alt="huutamatr" /></a> </p>
+<p align="left"><img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" /></p>
+
 
 - 🌱 I’m currently learning **ReactJs & TailwindCSS**
 
