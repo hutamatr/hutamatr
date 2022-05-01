@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs & TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hutamatr](https://github.com/hutamatr)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/hutamatr) & [FrontendMentor](https://www.frontendmentor.io/profile/hutamatr)
 
 - 📫 How to reach me **hutamatr@outlook.com**
 
