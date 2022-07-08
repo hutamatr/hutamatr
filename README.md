@@ -5,7 +5,7 @@
 <p align="left"><img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" /></p>
 
 
-- 🌱 I’m currently learning **ReactJs, Redux & TailwindCSS**
+- 🌱 I’m currently learning **ReactJs, Redux Toolkit & TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hutamatr) & [FrontendMentor](https://www.frontendmentor.io/profile/hutamatr)
 
