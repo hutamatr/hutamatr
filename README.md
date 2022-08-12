@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hutama Trirahmanto</h1>
 <h3 align="center">I'm interested in Web development especially Frontend Web development</h3>
 
-<p align="left"> <a href="https://twitter.com/huutamatr" target="blank"><img src="https://img.shields.io/twitter/follow/huutamatr?logo=twitter&style=for-the-badge" alt="huutamatr" /></a> </p>
-<p align="left"><img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" /></p>
-
+<p align="left">
+  <a href="https://twitter.com/huutamatr" target="blank"><img src="https://img.shields.io/twitter/follow/huutamatr?logo=twitter&style=for-the-badge" alt="huutamatr" /></a>
+</p>
+<p align="left">
+  <img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" />
+</p>
 
 - 🌱 I’m currently learning **ReactJs, Redux Toolkit & TailwindCSS**
 
@@ -13,9 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/huutamatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huutamatr" height="30" width="40" /></a>
+<a href="https://twitter.com/huutamatr" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huutamatr" height="30" width="40" />
+</a>
+
 <!-- <a href="https://linkedin.com/in/hutama-trirahmanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hutama trirahmanto" height="30" width="40" /></a> -->
-<a href="https://codepen.io/hutamatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hutamatr" height="30" width="40" /></a>
+
+<a href="https://codepen.io/hutamatr" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hutamatr" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
