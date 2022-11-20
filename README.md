@@ -8,7 +8,7 @@
   <img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" />
 </p>
 
-- 🌱 I’m currently learning **TypeScript, Redux Toolkit & TailwindCSS**
+- 🌱 I’m currently learning **TypeScript, React Query & TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hutamatr) & [FrontendMentor](https://www.frontendmentor.io/profile/hutamatr)
 
