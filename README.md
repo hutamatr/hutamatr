@@ -52,6 +52,9 @@
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>  
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://vectorseek.com/wp-content/uploads/2021/12/Next.js-Logo-Vector-730x730.jpg" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://tanstack.com/query/v4/docs/overview" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="react-query" width="40" height="40"/>
