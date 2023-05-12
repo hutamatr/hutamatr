@@ -5,7 +5,7 @@
   <img src="https://www.codewars.com/users/hutamatr/badges/small" alt="codewars" />
 </p>
 
-- 🌱 I’m currently learning **TypeScript, React Testing & NextJs**
+- 🌱 I’m currently learning **React Native, React Testing & NextJs**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/hutamatr) & [FrontendMentor](https://www.frontendmentor.io/profile/hutamatr)
 
