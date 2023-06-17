@@ -41,9 +41,9 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
+</a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
@@ -51,16 +51,22 @@
 <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="daisyUI" width="60" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>  
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://thebhwgroup.com/sites/default/images/blogs/2016-10-3-react-native-jni/react_native.png" alt="react-native" width="100" height="40"/>
+</a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://vectorseek.com/wp-content/uploads/2021/12/Next.js-Logo-Vector-730x730.jpg" alt="nextjs" width="40" height="40"/>
+<img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="90" height="40"/>
 </a>
 <a href="https://tanstack.com/query/v4/docs/overview" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="react-query" width="40" height="40"/>
 </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/lftgzwgzy8g2u8vqwso2.png" alt="zustand" width="85" height="40"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" width="40" height="40"/>
@@ -71,8 +77,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+</a> -->
 </p>
 
