@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hutama Trirahmanto</h1>
+<h1 align="center">Hi 👋, I'm Hutama</h1>
 <h3 align="center">I'm interested in Web development especially Frontend Web development</h3>
 
 <p align="left">
