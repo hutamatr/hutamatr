@@ -48,7 +48,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="daisyUI" width="60" height="40"/>
+<img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype.svg" alt="daisyUI" width="80" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="80" height="40"/>
