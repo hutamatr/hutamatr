@@ -11,13 +11,6 @@
 
 - 📫 How to reach me **hutamaaaa@gmail.com**
 
-<!-- <a href="https://linkedin.com/in/hutama-trirahmanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hutama trirahmanto" height="30" width="40" /></a> -->
-
-<a href="https://codepen.io/hutamatr" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hutamatr" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
