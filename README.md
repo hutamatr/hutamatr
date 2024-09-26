@@ -9,7 +9,7 @@
 
 - 👨‍💻 All my selected & open source projects are available at [Github](https://github.com/hutamatr) & [FrontendMentor](https://www.frontendmentor.io/profile/hutamatr)
 
-- 📫 How to reach me **hutamatr@gmail.com**
+- 📫 How to reach me **hutamaaaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
